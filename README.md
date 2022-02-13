@@ -1,4 +1,6 @@
 # ReactNativeSocialNavigation
+![Simulator Screen Shot - iPhone 13 - 2022-02-13 at 14 22 20](https://user-images.githubusercontent.com/68835326/153740024-57d62f2b-5083-4269-bd93-9fd51a7b222b.png)
+
 
 【React Native入門】React Navigation(画面移動)の設定方法を理解する  
 https://reffect.co.jp/react/react-navigation#Drawer_Navigation  
